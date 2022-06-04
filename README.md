@@ -1,2 +1,2 @@
 # PROJECT1-LANDING-PAGE
-d
+this my first project for learning purpose  
